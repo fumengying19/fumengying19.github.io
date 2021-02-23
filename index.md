@@ -14,7 +14,7 @@ My research interests include computer vision and machine learning, specifically
 <td><img src="/ADS.jpg"  height="150" width="500"></td>
 <td>Mengying Fu, Tianning Yuan, Fang Wan, Songcen Xu and Qixiang Ye, 
 <b>"Agreement-Discrepancy-Selection: Active Learning with Progressive Distribution Alignment"</b>, 
-the Association for the Advance of Artificial Intelligence(AAAI), 2021
+the Association for the Advance of Artificial Intelligence(AAAI), 2021 </td>
 </tr>
 </table>
 
