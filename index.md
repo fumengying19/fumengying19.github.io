@@ -25,7 +25,7 @@ Outstanding Student Leader of University of Chinese Academy of Sciences, 2020
 
 Merit student of Chinese Academy of Sciences, 2020
 
-The First Prize Scholarships, 2017 2018 2019
+The First Prize Scholarships, 2017/2018/2019
 
 H Prize of Mathematical Contest in Modeling for American College Students, 2018
 
