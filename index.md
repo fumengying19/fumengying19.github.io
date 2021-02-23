@@ -1,37 +1,31 @@
-## Welcome to Bob's Pages
+## Welcome to Mengying's Pages
 ---
 
 ## Biography
 ---
-I am a PhD student of [PRISDL](https://ucassdl.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information School at Wuhan University, Wuhan in June 2018.
+I am a master degree student of [PRISDL](https://ucassdl.cn/) in the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), advised by Prof. [Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). I got a B.E. degree in Electronic Information at China Agricultural University School, in June 2019.
 
-My research interests include computer vision and machine learning, specifically for few-shot learning and semantic segmentation.
+My research interests include computer vision and machine learning, specifically for active learning, classification and detection.
 
 ## Publications
 ---
 <table border="1">
 <tr>
-<td><img src="/PMMs.png"  height="150" width="500"></td>
-<td>Boyu Yang, Chang Liu, Bohao Li, Jianbin Jiao and Qixiang Ye, 
-<b>"Prototype Mixture Models for Few-shot Semantic Segmentation"</b>, 
-European Conference on Computer Vision(ECCV), 2020 <a href="https://arxiv.org/pdf/2008.03898.pdf">[PDF]</a> <a href="https://github.com/Yang-Bob/PMMs">[Code]</a> </td>
+<td><img src="/ADS.jpg"  height="150" width="500"></td>
+<td>Mengying Fu, Tianning Yuan, Fang Wan, Songcen Xu and Qixiang Ye, 
+<b>"Agreement-Discrepancy-Selection: Active Learning with Progressive Distribution Alignment"</b>, 
+the Association for the Advance of Artificial Intelligence(AAAI), 2021
 </tr>
 </table>
 
 ## Award
 ---
-National Scholarships, 2015 2016
+The Second Prize Scholarship, 2016
 
-Second Prize of National Mathematical Contest in Modeling, 2016
+First Prize of "People's livelihood Cup" Mathematical Contest in Modeling, 2016
 
-Third prize of National “Challenge Cup” Technological Innovation Competition, Outstanding Award in HuBei Province, 2017
+The First Prize Scholarships, 2017 2018
 
-Merit Student, Excellent Student Cadre of University of Chinese Academy of Sciences, 2019 2020
+The 98 Electronic Scholarship, 2017
 
-Merit Student, Excellent Student Cadre and Excellent Graduates of Wuhan University, 2018
-
-
-
-
-
-
+Third Prize of National Mathematical Contest in Modeling, 2017
