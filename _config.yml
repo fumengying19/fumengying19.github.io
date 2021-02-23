@@ -14,7 +14,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Mengying Fu
-  tagline: PhD Student
+  tagline: M.A. Student
   school: University of Chinese Academy of Sciences 
   mail: fumengying19@mails.ucas.ac.cn
   date_format: "%b %-d, %Y"
