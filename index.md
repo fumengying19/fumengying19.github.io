@@ -20,12 +20,26 @@ the Association for the Advance of Artificial Intelligence(AAAI), 2021 </td>
 
 ## Award
 ---
-The Second Prize Scholarship, 2016
 
-First Prize of "People's livelihood Cup" Mathematical Contest in Modeling, 2016
+Outstanding Student Leader of University of Chinese Academy of Sciences, 2020
 
-The First Prize Scholarships, 2017 2018
+Merit student of Chinese Academy of Sciences, 2020
+
+The First Prize Scholarships, 2017 2018 2019
+
+H Prize of Mathematical Contest in Modeling for American College Students, 2018
 
 The 98 Electronic Scholarship, 2017
 
 Third Prize of National Mathematical Contest in Modeling, 2017
+
+Second Prize of National College Students Electronic Design Competition (Beijing), 2017
+
+The Second Prize Scholarship, 2016
+
+First Prize of "People's livelihood Cup" Mathematical Contest in Modeling, 2016
+
+
+
+
+
