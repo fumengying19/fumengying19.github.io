@@ -18,6 +18,24 @@ the Association for the Advance of Artificial Intelligence(AAAI), 2021 <a href="
 </tr>
 </table>
 
+<table border="1">
+<tr>
+<td><img src="/ADS.jpg"  height="150" width="1000"></td>
+<td>Mengying Fu, Tianning Yuan, Fang Wan, Songcen Xu and Qixiang Ye, 
+<b>"Agreement-Discrepancy-Selection: Active Learning with Progressive Distribution Alignment"</b>, 
+the Association for the Advance of Artificial Intelligence(AAAI), 2021 <a href="https://github.com/fumengying19/AAAI21-ADS">[PDF & Code]</a> </td>
+</tr>
+</table>
+
+<table border="1">
+<tr>
+<td><img src="/ADS.jpg"  height="150" width="1000"></td>
+<td>Mengying Fu, Tianning Yuan, Fang Wan, Songcen Xu and Qixiang Ye, 
+<b>"Agreement-Discrepancy-Selection: Active Learning with Progressive Distribution Alignment"</b>, 
+the Association for the Advance of Artificial Intelligence(AAAI), 2021 <a href="https://github.com/fumengying19/AAAI21-ADS">[PDF & Code]</a> </td>
+</tr>
+</table>
+
 ## Award
 ---
 
