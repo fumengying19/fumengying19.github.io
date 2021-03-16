@@ -39,7 +39,10 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021 <a h
 ## Patents
 ---
 《一种基于网络监督的目标分类与定位方法》，申请人：叶齐祥，付梦莹，万方，韩振军，焦建彬
+
 《一种基于分歧学习的弱监督目标分类和定位方法》，申请人：万方，薛昊岚，刘畅，付梦莹，叶齐祥，韩振军，焦建彬
+
+《一种基于“一致-分歧-选择”的主动学习算法》
 
 
 ## Award
