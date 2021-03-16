@@ -20,10 +20,10 @@ the Association for the Advance of Artificial Intelligence(AAAI), 2021 <a href="
 
 <table border="1">
 <tr>
-<td><img src="/ADS.jpg"  height="150" width="1000"></td>
-<td>Mengying Fu, Tianning Yuan, Fang Wan, Songcen Xu and Qixiang Ye, 
-<b>"Agreement-Discrepancy-Selection: Active Learning with Progressive Distribution Alignment"</b>, 
-the Association for the Advance of Artificial Intelligence(AAAI), 2021 <a href="https://github.com/fumengying19/AAAI21-ADS">[PDF & Code]</a> </td>
+<td><img src="/AAAI-NCE-Net.png"  height="150" width="1000"></td>
+<td>Fang Wan, Tianning Yuan, Mengying Fu,  Xiangyang Ji, Qingming Huang, and Qixiang Ye, 
+<b>"Nearest Neighbor Classifier Embedded Network for Active Learning"</b>, 
+the Association for the Advance of Artificial Intelligence(AAAI), 2021 <a href="https://github.com/WanFang13/NCE-Net">[PDF & Code]</a> </td>
 </tr>
 </table>
 
